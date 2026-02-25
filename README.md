@@ -1,11 +1,11 @@
-# 🤖 Robot & AI Expert Roadmap
+#  Robot & AI Expert Roadmap
 
 This repository is a **step-by-step roadmap for becoming an expert in robotics and artificial intelligence**.  
 Check off each item as you learn it: `[ ]` → `[x]`.
 
 ---
 
-## 🌟 1. Mathematics & Fundamentals
+##  1. Mathematics & Fundamentals
 - [ ] Linear Algebra: vectors, matrices, eigenvalues  
 - [ ] Calculus: derivatives, gradients, partial derivatives  
 - [ ] Probability & Statistics: probability distributions, Bayes theorem  
@@ -13,7 +13,7 @@ Check off each item as you learn it: `[ ]` → `[x]`.
 
 ---
 
-## 🌟 2. Core Programming & Software Skills
+##  2. Core Programming & Software Skills
 - [ ] Python  
 - [ ] C / C++  
 - [ ] Linux / Ubuntu basics (bash, terminal, device drivers)  
@@ -22,7 +22,7 @@ Check off each item as you learn it: `[ ]` → `[x]`.
 
 ---
 
-## 🌟 3. Artificial Intelligence & Machine Learning
+##  3. Artificial Intelligence & Machine Learning
 - [ ] Machine Learning (Supervised / Unsupervised)  
 - [ ] Regression, Classification, Clustering  
 - [ ] Python ML Stack: scikit-learn, Pandas, NumPy, Matplotlib  
@@ -32,7 +32,7 @@ Check off each item as you learn it: `[ ]` → `[x]`.
 
 ---
 
-## 🌟 4. Robotics Fundamentals
+##  4. Robotics Fundamentals
 - [ ] Embedded Systems: Arduino, Raspberry Pi  
 - [ ] Sensors & Actuators: ultrasonic, IMU, motor drivers  
 - [ ] ROS / ROS2: nodes, topics, services, RViz, Gazebo  
@@ -41,21 +41,21 @@ Check off each item as you learn it: `[ ]` → `[x]`.
 
 ---
 
-## 🌟 5. Computer Vision
+##  5. Computer Vision
 - [ ] OpenCV: image processing, filters, contour detection  
 - [ ] Object Detection: YOLO, Detectron  
 - [ ] Pose Estimation & Depth Sensing  
 
 ---
 
-## 🌟 6. Data & APIs
+##  6. Data & APIs
 - [ ] REST API / GraphQL  
 - [ ] JSON / XML  
 - [ ] MQTT (for IoT and robot communication)  
 
 ---
 
-## 🌟 7. Testing & Code Quality
+##  7. Testing & Code Quality
 - [ ] Unit Testing (PyTest / Jest / JUnit)  
 - [ ] Integration Testing  
 - [ ] Test Driven Development (TDD)  
@@ -63,7 +63,7 @@ Check off each item as you learn it: `[ ]` → `[x]`.
 
 ---
 
-## 🌟 8. Cloud & Modern Architectures
+##  8. Cloud & Modern Architectures
 - [ ] Cloud basics: AWS / GCP / Azure  
 - [ ] Serverless architecture  
 - [ ] Microservices (advanced)  
@@ -72,7 +72,7 @@ Check off each item as you learn it: `[ ]` → `[x]`.
 
 ---
 
-## 🌟 9. Projects
+##  9. Projects
 ### Beginner
 - [ ] Line-following robot  
 - [ ] Obstacle-avoiding robot  
@@ -90,7 +90,7 @@ Check off each item as you learn it: `[ ]` → `[x]`.
 
 ---
 
-## 🌟 10. Soft Skills
+##  10. Soft Skills
 - [ ] Problem-solving skills  
 - [ ] Teamwork & communication  
 - [ ] Clean code practices  
@@ -98,7 +98,7 @@ Check off each item as you learn it: `[ ]` → `[x]`.
 
 ---
 
-📌 Notes
+  Notes
 - Check off each item as you learn it `[ ] → [x]`.  
 - Reinforce theory with small projects.  
 - Follow the learning order: **Simulation → Physical Robot → AI Integration**.
